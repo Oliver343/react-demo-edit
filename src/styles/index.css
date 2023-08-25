@@ -10,3 +10,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+/* * {
+    border: 1px dashed red;
+} */
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.setSize {
+    width: 300px;
+    height: 150px;
+}
