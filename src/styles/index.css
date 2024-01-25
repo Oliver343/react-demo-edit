@@ -24,3 +24,7 @@ a {
     width: 500;
     height: 150px;
 }
+
+.spaceAround {
+    margin: 20px;
+}
